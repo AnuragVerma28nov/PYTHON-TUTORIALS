@@ -4,6 +4,8 @@ n_1=0
 n_2=1
 if n_term<0:
     print("please enter a postive number: ")
+elif n_term==1:
+    print("fibonnic series: ",n_1)  
 else:
     print("fibonnic series: ", end=" ")
     print(n_1,n_2,end="")
