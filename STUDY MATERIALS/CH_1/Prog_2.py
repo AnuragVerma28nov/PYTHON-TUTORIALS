@@ -1,15 +1,16 @@
-# Poem: Twinkle, Twinkle, Little Star
+# Features of python
 
-print("Twinkle, twinkle, little star,")
-print("How I wonder what you are!")
-print("Up above the world so high,")
-print("Like a diamond in the sky.")
+print("Features of python:")
+print("Easy & Simple.")
+print("HLL.")
+print("Free & Open Source.")
+print("Thank You!.")
 
 
 # Output:
-# Twinkle, twinkle, little star,
-# How I wonder what you are!
-# Up above the world so high,
-# Like a diamond in the sky.
 
-
+#Features of python:
+#Easy & Simple.
+#HLL.
+#Free & Open Source.
+# Thank You!.
