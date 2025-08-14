@@ -7,5 +7,5 @@ print("Good Morning,",st)
 # Output: 
 
 # Enter your name: Anurag
-
 # Good Morning, Anurag
+
