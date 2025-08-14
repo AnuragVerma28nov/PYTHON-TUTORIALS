@@ -1,4 +1,4 @@
-# PYTHON-TUTORIAL
+# PYTHON_PROGRAMS
 
 Python Programs Collection
 
@@ -23,3 +23,4 @@ You can explore each unit to find relevant practice programs, documentation, or 
   - Year: 2025 
 
 Thank you for visiting this repository!
+
