@@ -8,7 +8,7 @@ You can install the required modules using pip:
 
 1.pip install matplotlib 
 2.pip install pandas 
-pip install numpy
+3.pip install numpy
 
 Module Descriptions
 - Matplotlib: A plotting library for creating static, animated, and interactive 
