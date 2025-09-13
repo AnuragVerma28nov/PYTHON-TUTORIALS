@@ -7,7 +7,7 @@ Installation
 You can install the required modules using pip:
 
 1.pip install matplotlib 
-pip install pandas 
+2.pip install pandas 
 pip install numpy
 
 Module Descriptions
@@ -15,4 +15,5 @@ Module Descriptions
 visualizations in python.
 - Pandas: A library providing high-performance, easy-to-use data structures and data analysis tools for Python.
 - NumPy: A library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
 
