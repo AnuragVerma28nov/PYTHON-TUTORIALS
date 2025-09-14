@@ -1,4 +1,5 @@
-#swap of two varialbles without using third variabl
+#swap of two varialbles without using third variable
+
 x=int(input ("enter a number:"))
 y=int(input("enter a number:"))
 print("valuve of x=",x)
