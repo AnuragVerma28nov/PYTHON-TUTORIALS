@@ -10,3 +10,5 @@ elif period.upper() == "PM":
         hours += 12 
 time_24hr = f"{hours:02}:{minutes:02}"
 print("Time in 24-hour format:", time_24hr)
+
+
